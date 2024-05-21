@@ -1,0 +1,2 @@
+# Style is an object-oriented module made to simplify events
+The purpose of style is to make pseudo event connections that can later be applied to Instances in Roblox. You can connect events to tweens for easy UI animations or connect events to functions. Style should mainly be used for static tweens or functions that don't require complex code.
